@@ -407,3 +407,60 @@ body {
   animation: 10s fadeout 2s;
   animation-fill-mode: forwards;
 }
+@media screen and (min-width: 1300px){
+  .penguin {
+    transform: translateX(17px) translateY(120px);
+}
+.tree-wrapper {
+  transform: translateX(240px) translateY(227px);
+}
+.merry-christmas {
+  transform: translateY(371px) translateX(25px) rotate(-5deg) skewX(10deg);
+}
+.arrow1 {
+  transform: translate(-320%, -151%);
+}
+#thong {
+  transform: rotate(-48deg);
+}
+#Name {
+  transform: translate(-234%, -246%);
+}
+}
+@media screen and (max-width: 600px){
+  .penguin {
+    transform: translatex(35px) translatey(186px);
+}
+.tree-wrapper {
+  transform: translatex(260px) translatey(279px);
+}
+.merry-christmas {
+  font-size: 22px;
+  transform: translatey(376px) translatex(-70px) rotate(-5deg) skewX(10deg);
+}
+#Christmas {
+  top: 57px;
+  right: -106px;
+}
+#Christmas1 {
+  position: absolute;
+  top: 113px;
+  right: -74px;
+}
+.switch-wrapper {
+  bottom: 509px;
+  left: -7px;
+  opacity: 0.5;
+  /* animation-fill-mode: forwards; */
+}
+.arrow1 {
+  top: 13%;
+  left: 15%;
+  transform: rotate(-42deg);
+}
+#Name {
+  top: 45%;
+  left: -15%;
+  font-size: 53px;
+}
+}
