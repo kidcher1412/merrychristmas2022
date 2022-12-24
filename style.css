@@ -33,7 +33,7 @@ body {
 .arrow1{
   position: absolute;
   top: 22%;
-  left: 51%;
+  left: 54%;
   transform: translate(-0%,-200%);
   font-size: 100px;
 }
@@ -42,7 +42,7 @@ body {
   position: absolute;
   font-family: Pacifico;
   top: 21%;
-  left: 53%;
+  left: 55%;
   transform: translate(50%,-340%);
 }
 
