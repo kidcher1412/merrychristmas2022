@@ -21,7 +21,7 @@ body {
   font-size: 50px;
   font-family: Pacifico;
   color: var(--secondary-penguin-color);
-  transform: translatey(350px) translatex(-100px) rotate(-5deg) skewX(10deg);
+  transform: translatey(676px) translatex(-100px) rotate(-5deg) skewX(10deg);
   text-shadow: -2px 0 black, 0 10px black, 2px 0 black, 0 -2px black;
   opacity: 0;
 }
@@ -30,19 +30,19 @@ body {
   top: 100px;
   right: -180px;
 }
-.arrow1{
+.arrow1 {
   position: absolute;
-  top: 22%;
+  top: 37%;
   left: 54%;
   transform: translate(-0%,-200%);
   font-size: 100px;
 }
 #Name {
-  font-size: 50px;
+  font-size: 76px;
   position: absolute;
   font-family: Pacifico;
-  top: 21%;
-  left: 55%;
+  top: 43%;
+  left: 51%;
   transform: translate(50%,-340%);
 }
 
@@ -68,7 +68,7 @@ body {
 
 .penguin {
   position: relative;
-  transform: translatex(-80px) translatey(100px);
+  transform: translatex(-80px) translatey(400px);
 }
 
 .hat {
@@ -383,7 +383,7 @@ body {
   position: absolute;
   width: 500px;
   height: 500px;
-  transform: translatex(100px) translatey(200px);
+  transform: translatex(131px) translatey(506px);
   opacity: 0;
 }
 
