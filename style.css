@@ -448,10 +448,10 @@ body {
   right: -74px;
 }
 .switch-wrapper {
-  bottom: 509px;
-  left: -7px;
-  opacity: 0.5;
-  /* animation-fill-mode: forwards; */
+    bottom: 12%;
+    right: 13%;
+    opacity: 0.5;
+    /* animation-fill-mode: forwards; */
 }
 .arrow1 {
   top: 13%;
